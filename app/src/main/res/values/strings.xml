@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Petition</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_petition">AddPetition</string>
+    <string name="title_activity_fetch_petitions">FetchPetitions</string>
+    <string name="title_activity_insert__petition">Insert_Petition</string>
+    <string name="title_activity_show__petition">Show_Petition</string>
+    <string name="title_activity_sign">Sign</string>
+</resources>
